@@ -28,24 +28,24 @@ characters (strings of length 1) that contains a crossword puzzle with these wor
   * e.g. `crossword(['ARCHETYPE','AUTHORITY','BENCHMARK','CRITERION','EXEMPLIFY','PRECEDENT','PROTOTYPE','QUOTATION','REFERENCE','ROLEMODEL','ULTIMATUM]'])`
     * output：
 --------------------------------------------------
-     Q              
-     U              
-   PROTOTYPE        
-     T    R         
-     A REFERENCE    
-     T    C         
-     I    E         
-     O    D  R      
-     N    E  O      
-  C       N  L      
-  R  ARCHETYPE      
-  I  U       M      
-  T  T       O      
- BENCHMARK   D      
-  R  O       E      
-  I  R       L      
-  O  I              
-  N  T              
-     Y              
+       Q              
+       U              
+     PROTOTYPE        
+       T    R         
+       A REFERENCE    
+       T    C         
+       I    E         
+       O    D  R      
+       N    E  O      
+    C       N  L      
+    R  ARCHETYPE      
+    I  U       M      
+    T  T       O      
+   BENCHMARK   D      
+    R  O       E      
+    I  R       L      
+    O  I              
+    N  T              
+       Y              
                     
 --------------------------------------------------
