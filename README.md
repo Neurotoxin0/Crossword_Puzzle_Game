@@ -3,9 +3,9 @@
 characters (strings of length 1) that contains a crossword puzzle with these words. 
 
 ----
+Example:
 
-e.g. `crossword(['addle', 'apple', 'clowning', 'incline', 'plan', 'burr'])`
-    * output:
+1. `crossword(['addle', 'apple', 'clowning', 'incline', 'plan', 'burr'])`
 --------------------------------------------------
                     
                     
@@ -28,8 +28,7 @@ e.g. `crossword(['addle', 'apple', 'clowning', 'incline', 'plan', 'burr'])`
           e         
                     
 --------------------------------------------------
-  * e.g. `crossword(['ARCHETYPE','AUTHORITY','BENCHMARK','CRITERION','EXEMPLIFY','PRECEDENT','PROTOTYPE','QUOTATION','REFERENCE','ROLEMODEL','ULTIMATUM]'])`
-    * output：
+2. `crossword(['ARCHETYPE','AUTHORITY','BENCHMARK','CRITERION','EXEMPLIFY','PRECEDENT','PROTOTYPE','QUOTATION','REFERENCE','ROLEMODEL','ULTIMATUM]'])`
 --------------------------------------------------
          Q              
          U              
